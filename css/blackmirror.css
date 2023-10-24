@@ -22,6 +22,7 @@
       src: url(../font/OpenSans-Regular.ttf);
 }
 
+* {box-sizing:border-box;}   /* con maquetación compleja SIEMPRE */
 
 body {margin:0;padding:0;   /* para desactivar el espacio de 
                                separación por defecto */
@@ -32,4 +33,21 @@ body {margin:0;padding:0;   /* para desactivar el espacio de
           
           width:80%;        /* ancho fijado al 80% */
           margin:auto;}     /* centrado automático */
+
+/***************************   HERO SECTION *********************************/
+
+#hero {background-image: url(../img/black-mirror-serie.jpg);
+                         height:95vh;    /* el 100% del alto de la ventana del navegador */ 
+                         background-size: cover;
+                        }
+
+#hero button {background-color:#808080;
+              color:white;
+              font-weight: bold;
+              padding:5px 10px;
+              border:none;
+              border-radius: 10px;
+              margin-left:40%;       /* ESTO ES VERY CUTRE ***********/
+              margin-top: 75vh;
+}
 
