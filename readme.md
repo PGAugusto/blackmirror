@@ -37,3 +37,20 @@ Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 <h3>Footer</h3>
 <p>breve explicación </p>
 
+<h2>Estilado de la página</h2>
+<h3>Paleta de colores</h3>
+<p>.....</p>
+<h3>Tipografías</h3>
+<p>.....</p>
+<h3>Imágenes</h3>
+<p>.....</p>
+<h3>Videos</h3>
+<p>.....</p>
+...................
+<h2>Code snippets</h2>
+<p>He utilizado los siguientes:</p>
+<ul>
+  <li>Barra de navegación: tomada de w3Schools "How to" (poner vínculo)</li>
+  <li>Accordion: ..............</li>
+  <li>..........</li>
+</ul>
