@@ -23,6 +23,7 @@
 <p>breve explicación </p>
 
 <h3>Introducción</h3>
+<img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
 <p>breve explicación </p>
 
 <p>...</p>
