@@ -40,7 +40,7 @@ Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 
 
 
-<p>...</p>
+<p>y aqui pongo <b>lo que quiera</b></p>
 
 <h3>Footer</h3>
 <p>breve explicación </p>
