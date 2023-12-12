@@ -13,7 +13,7 @@
 <p>La web está dividida en  X secciones:</p>
 <ul>
   <li>Hero Section</li>
-  <img src="./bm-readme/hero" alt="imagen de hero section">
+  <img src="./bm-readme/hero.png" alt="imagen de hero section">
   <li>Introducción</li>
   <li>...</li>
   <li>Footer</li>
