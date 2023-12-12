@@ -12,14 +12,14 @@
 <h2>Estructura</h2>
 <p>La web está dividida en  X secciones:</p>
 <ul>
-  <li>Hero Section</li>
-  <img src="./bm-readme/hero.png" alt="imagen de hero section">
+  <li>Hero Section</li>  
   <li>Introducción</li>
   <li>...</li>
   <li>Footer</li>
 </ul>
 
 <h3>Hero Section</h3>
+<img src="./bm-readme/hero.png" alt="imagen de hero section" style="width:50%">
 <p>breve explicación </p>
 
 <h3>Introducción</h3>
