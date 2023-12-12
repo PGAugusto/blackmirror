@@ -28,6 +28,10 @@ Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 <img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
 <p>He dispuesto en un grid de 2 columnas....</p>
 
+.......
+
+
+
 <p>...</p>
 
 <h3>Footer</h3>
