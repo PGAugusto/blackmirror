@@ -2,7 +2,7 @@
 <h2>Black Mirror - A tribute site</h2>
 <h2>Indice</h2>
 <ul>
-  <li><a href="introduccion">Introducción</a></li>
+  <li><a href="#introduccion">Introducción</a></li>
   <li>Motivación</li>
   <li>Estructura</li>
   <li>Estilo</li>
