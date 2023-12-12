@@ -20,11 +20,13 @@
 
 <h3>Hero Section</h3>
 <img src="./bm-readme/hero.png" alt="imagen de hero section" style="width:50%">
-<p>breve explicación </p>
+<p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
+Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
+(una breve explicación)</p>
 
 <h3>Introducción</h3>
 <img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
-<p>breve explicación </p>
+<p>He dispuesto en un grid de 2 columnas....</p>
 
 <p>...</p>
 
